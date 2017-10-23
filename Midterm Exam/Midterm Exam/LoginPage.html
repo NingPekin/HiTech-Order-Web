@@ -1,0 +1,56 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Login Page</title>
+	<meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="content-type" content="text/html; charset=iso-8859-1" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <link href="css/Hi-Tech.css" rel="stylesheet" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="js/Hi-Tech.js">
+    </script>
+</head>
+<body id="LoginPage" data-spy="scroll" data-target=".navbar" data-offset="50" onload="checkUser()">
+    <nav class="navbar navbar-default navbar-fixed-top" style="background-color: black">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <a class="navbar-brand" href="HomePage.html" style="padding-top: 3px"><img class="img-responsive2" src="tech_logo_by_color_ok.jpg" style="display:inline-block" width="55" /></a>
+            </div>
+            <div class="collapse navbar-collapse" id="myNavbar">
+                <ul class="nav navbar-nav navbar-right">
+                    <li><a href="HomePage.html">Home</a></li>
+                    <li><a href="OrderFormPage.html">Take Order</a></li>
+                    <li><a href="LoginPage.html">Login</a></li>
+                    <li><a href="MemberAccountPage.html">New Customer</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <div class="container-fluid" style="margin-top:70px">
+        <h1>
+            Hi-Tech Login
+        </h1>
+        <hr />
+        <form id="loginform" action="" method="get" enctype="application/x-www-form-urlencoded" style="align-items:center">
+            <p>
+                <strong>User Name</strong><br />
+                <input type="text" name="username" />
+            </p>
+            <p>
+                <strong>Password</strong><br />
+                <input type="password" name="userpassword" />
+            </p>
+            <p>
+                <input type="button" value="Log In" onclick="checkUser();" />
+            </p>
+        </form>
+        <p>
+            <a href="MemberAccountPage.html">Create New Account</a>
+        </p>
+    
+    </div>
+</body>
+</html>

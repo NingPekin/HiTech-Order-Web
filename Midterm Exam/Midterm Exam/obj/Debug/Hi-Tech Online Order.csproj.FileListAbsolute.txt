@@ -1,0 +1,33 @@
+G:\LaSalle College\2017Fall\Internet Programming1\Midterm\Midterm Exam\Midterm Exam\bin\ApplicationInsights.config
+G:\LaSalle College\2017Fall\Internet Programming1\Midterm\Midterm Exam\Midterm Exam\bin\roslyn\csc.exe
+G:\LaSalle College\2017Fall\Internet Programming1\Midterm\Midterm Exam\Midterm Exam\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\LaSalle College\2017Fall\Internet Programming1\Midterm\Midterm Exam\Midterm Exam\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\LaSalle College\2017Fall\Internet Programming1\Midterm\Midterm Exam\Midterm Exam\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\LaSalle College\2017Fall\Internet Programming1\Midterm\Midterm Exam\Midterm Exam\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\LaSalle College\2017Fall\Internet Programming1\Midterm\Midterm Exam\Midterm Exam\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\LaSalle College\2017Fall\Internet Programming1\Midterm\Midterm Exam\Midterm Exam\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\LaSalle College\2017Fall\Internet Programming1\Midterm\Midterm Exam\Midterm Exam\bin\roslyn\System.Collections.Immutable.dll
+G:\LaSalle College\2017Fall\Internet Programming1\Midterm\Midterm Exam\Midterm Exam\bin\roslyn\System.Reflection.Metadata.dll
+G:\LaSalle College\2017Fall\Internet Programming1\Midterm\Midterm Exam\Midterm Exam\bin\roslyn\vbc.exe
+G:\LaSalle College\2017Fall\Internet Programming1\Midterm\Midterm Exam\Midterm Exam\bin\roslyn\VBCSCompiler.exe
+G:\LaSalle College\2017Fall\Internet Programming1\Midterm\Midterm Exam\Midterm Exam\bin\roslyn\VBCSCompiler.exe.config
+G:\LaSalle College\2017Fall\Internet Programming1\Midterm\Midterm Exam\Midterm Exam\bin\Midterm Exam.dll.config
+G:\LaSalle College\2017Fall\Internet Programming1\Midterm\Midterm Exam\Midterm Exam\bin\Midterm Exam.dll
+G:\LaSalle College\2017Fall\Internet Programming1\Midterm\Midterm Exam\Midterm Exam\bin\Midterm Exam.pdb
+G:\LaSalle College\2017Fall\Internet Programming1\Midterm\Midterm Exam\Midterm Exam\bin\Microsoft.AI.Agent.Intercept.dll
+G:\LaSalle College\2017Fall\Internet Programming1\Midterm\Midterm Exam\Midterm Exam\bin\Microsoft.AI.DependencyCollector.dll
+G:\LaSalle College\2017Fall\Internet Programming1\Midterm\Midterm Exam\Midterm Exam\bin\Microsoft.AI.PerfCounterCollector.dll
+G:\LaSalle College\2017Fall\Internet Programming1\Midterm\Midterm Exam\Midterm Exam\bin\Microsoft.AI.ServerTelemetryChannel.dll
+G:\LaSalle College\2017Fall\Internet Programming1\Midterm\Midterm Exam\Midterm Exam\bin\Microsoft.AI.Web.dll
+G:\LaSalle College\2017Fall\Internet Programming1\Midterm\Midterm Exam\Midterm Exam\bin\Microsoft.AI.WindowsServer.dll
+G:\LaSalle College\2017Fall\Internet Programming1\Midterm\Midterm Exam\Midterm Exam\bin\Microsoft.ApplicationInsights.dll
+G:\LaSalle College\2017Fall\Internet Programming1\Midterm\Midterm Exam\Midterm Exam\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\LaSalle College\2017Fall\Internet Programming1\Midterm\Midterm Exam\Midterm Exam\bin\Microsoft.AI.DependencyCollector.xml
+G:\LaSalle College\2017Fall\Internet Programming1\Midterm\Midterm Exam\Midterm Exam\bin\Microsoft.AI.ServerTelemetryChannel.xml
+G:\LaSalle College\2017Fall\Internet Programming1\Midterm\Midterm Exam\Midterm Exam\bin\Microsoft.AI.Web.xml
+G:\LaSalle College\2017Fall\Internet Programming1\Midterm\Midterm Exam\Midterm Exam\bin\Microsoft.AI.WindowsServer.xml
+G:\LaSalle College\2017Fall\Internet Programming1\Midterm\Midterm Exam\Midterm Exam\bin\Microsoft.ApplicationInsights.xml
+G:\LaSalle College\2017Fall\Internet Programming1\Midterm\Midterm Exam\Midterm Exam\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\LaSalle College\2017Fall\Internet Programming1\Midterm\Midterm Exam\Midterm Exam\obj\Debug\Hi-Tech Online Order.csprojResolveAssemblyReference.cache
+G:\LaSalle College\2017Fall\Internet Programming1\Midterm\Midterm Exam\Midterm Exam\obj\Debug\Midterm Exam.dll
+G:\LaSalle College\2017Fall\Internet Programming1\Midterm\Midterm Exam\Midterm Exam\obj\Debug\Midterm Exam.pdb
