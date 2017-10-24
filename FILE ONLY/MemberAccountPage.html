@@ -1,19 +1,16 @@
 ﻿<!DOCTYPE html>
 <html>
 <head>
-    <title>Login Page</title>
-	<meta charset="utf-8" />
+    <title>New Customer</title>
+    <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta http-equiv="content-type" content="text/html; charset=iso-8859-1" />
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-    <link href="css/Hi-Tech.css" rel="stylesheet" />
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-    <script src="js/Hi-Tech.js">
-    </script>
+    <script src="js/Hi-Tech.js"></script>
 </head>
-<body id="LoginPage" data-spy="scroll" data-target=".navbar" data-offset="50" onload="checkUser()">
+<body id="LoginPage" data-spy="scroll" data-target=".navbar" data-offset="50">
     <nav class="navbar navbar-default navbar-fixed-top" style="background-color: black">
         <div class="container-fluid">
             <div class="navbar-header">
@@ -31,11 +28,37 @@
     </nav>
     <div class="container-fluid" style="margin-top:70px">
 
-        <h1>
-            Hi-Tech Login
-        </h1>
-        <hr />
-        <form id="loginform" action="" method="get" enctype="application/x-www-form-urlencoded" style="align-items:center">
+        <h1>New Customer Registration</h1><hr />
+        <form action="" method="get"
+              enctype="application/x-www-form-urlencoded">
+            <p>
+                <strong>First Name</strong><br />
+                <input type="text" name="firstname" />
+            </p>
+            <p>
+                <strong>Last Name</strong><br />
+                <input type="text" name="lastname" />
+            </p>
+            <p>
+                <strong>Street Number and Name</strong><br />
+                <input type="text" name="street" />
+            </p>
+            <p>
+                <strong>City</strong><br />
+                <input type="text" name="city" />
+            </p>
+            <p>
+                <strong>Postal Code</strong><br />
+                <input type="text" name="postalcode" />
+            </p>
+            <p>
+                <strong>Phone Number</strong><br />
+                <input type="number" name="phonenumber" />
+            </p>
+            <p>
+                <strong>Email</strong><br />
+                <input type="email" name="email" />
+            </p>
             <p>
                 <strong>User Name</strong><br />
                 <input type="text" name="username" />
@@ -45,13 +68,11 @@
                 <input type="password" name="userpassword" />
             </p>
             <p>
-                <input type="button" value="Log In" onclick="checkUser();" />
+                <input type="button" value="Register"
+                       onclick="registerForm();" />
             </p>
         </form>
-        <p>
-            <a href="MemberAccountPage.html">Create New Account</a>
-        </p>
-    
+
     </div>
 </body>
 </html>
