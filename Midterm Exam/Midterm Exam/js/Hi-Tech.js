@@ -29,7 +29,7 @@ function checkUser() {
     if (document.cookie.length == 0)
     {
         //if cookie has expired
-        location.href = "MemberAccountPage.html";
+        location.href = "LoginPage.html";
         attempts == 0;
         return false;
     }
@@ -61,7 +61,7 @@ function checkUser() {
             //alert(attempts);
             if (attempts == 3) {
                 window.alert("LogIn Failed.");
-                location.href = "MemberAccountPage.html";
+                location.href = "LoginPage.html";
             }
             }
     }
@@ -69,7 +69,11 @@ function checkUser() {
 function retriveUser() {
     var savedData = decodeURIComponent(document.cookie);
     if (savedData.search("login=successful") == -1)
-        location.href = "MemberAccountPage.html";
+    {
+        location.href = "LoginPage.html";
+        return false;
+    }
+
     var dataArray = savedData.split("; ");
     var firstName, lastName;
     for (var i = 0; i < dataArray.length; ++i) {
@@ -113,6 +117,7 @@ function doSubmit()
 }
 function caltotal()
 {
+    total = 0;
     if ($('#chkfweb').is(':checked')) {
         total =total+ 178.55;
 
